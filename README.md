@@ -1,2 +1,1 @@
 # my-react-template
-# Hostie
